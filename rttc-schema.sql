@@ -56,6 +56,7 @@ create table reservations (
 	reservation_id int primary key auto_increment,
     performance_id int not null,
 	customer_id int not null,
+	reservation_total decimal(4,2) not null,
 	constraint foreign_key_reservation_performance_id
 		foreign key (performance_id)
         references performance(performance_id),
