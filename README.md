@@ -1,13 +1,14 @@
 
 # Tiny Theaters Assessment
+<!-- set sql_safe_updates = 0; -->
 
 ## Tasks
 
 _TODO_ Add time estimates to each of the top-level tasks
 
-* [ ] Create a new GitHub repo for this assessment (#.# hours)
-  * [ ] Update the README with the contents from this file
-  * [ ] Add the instruction team as collaborators
+* [X] Create a new GitHub repo for this assessment (#.# hours)
+  * [X] Update the README with the contents from this file
+  * [X] Add the instruction team as collaborators
 
 * [ ] Review the requirements (#.# hours)
 
