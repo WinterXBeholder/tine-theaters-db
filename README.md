@@ -1,41 +1,42 @@
 
 # Tiny Theaters Assessment
+<!-- set sql_safe_updates = 0; -->
 
 ## Tasks
 
 _TODO_ Add time estimates to each of the top-level tasks
 
-* [ ] Create a new GitHub repo for this assessment (#.# hours)
-  * [ ] Update the README with the contents from this file
-  * [ ] Add the instruction team as collaborators
+* [X] Create a new GitHub repo for this assessment (#.# hours)
+  * [X] Update the README with the contents from this file
+  * [X] Add the instruction team as collaborators
 
-* [ ] Review the requirements (#.# hours)
+* [X] Review the requirements (#.# hours)
 
-* [ ] Download the provided data (#.# hours)
+* [X] Download the provided data (#.# hours)
 
-* [ ] Review the provided data (#.# hours)
+* [X] Review the provided data (#.# hours)
 
-* [ ] Identify any research that I need to do (#.# hours)
+* [X] Identify any research that I need to do (#.# hours)
 
 ---
 
 _These steps can be done in class on Friday_
 
-* [ ] Design initial database schema (#.# hours)
-  * [ ] Identify the tables that are needed
-  * [ ] For each table...
+* [X] Design initial database schema (#.# hours)
+  * [X] Identify the tables that are needed
+  * [X] For each table...
     * Define a primary key
     * Define its columns (name, data type, and nullability)
-  * [ ] Identify the relationships between tables
+  * [X] Identify the relationships between tables
     * Define any foreign keys
-  * [ ] Identify any default or unique constraints
+  * [X] Identify any default or unique constraints
 
-* [ ] Draw a diagram of the database schema (#.# hours)
-  * [ ] Share with one or more classmates for feedback
-  * [ ] Update database schema as needed
-  * [ ] Share updated diagram with one or more classmates
-  * [ ] Update database schema as needed
-  * [ ] Share with assigned code reviewer for feedback
+* [X] Draw a diagram of the database schema (#.# hours)
+  * [X] Share with one or more classmates for feedback
+  * [X] Update database schema as needed
+  * [X] Share updated diagram with one or more classmates
+  * [X] Update database schema as needed
+  * [X] Share with assigned code reviewer for feedback
 
 _Acceptable diagram formats_
 
@@ -50,16 +51,16 @@ _Acceptable diagram formats_
 
 _These steps can be done in class on Friday or over the weekend_
 
-* [ ] Write the DDL in a file named `rcttc-schema.sql` to create the database (#.# hours)
-  * [ ] Drop and create the database
-  * [ ] Create all of the tables
+* [X] Write the DDL in a file named `rcttc-schema.sql` to create the database (#.# hours)
+  * [X] Drop and create the database
+  * [X] Create all of the tables
 
-* [ ] Import the provided data (#.# hours)
-  * [ ] Import the csv file using Workbench _or_
-  * [ ] Run the provided SQL script
+* [X] Import the provided data (#.# hours)
+  * [X] Import the csv file using Workbench _or_
+  * [X] Run the provided SQL script
 
-* [ ] Write the DML in a file named `rcttc-data.sql` to populate the database tables (#.# hours)
-  * [ ] Write insert-from-select statements to move the data from the denormalized table to the normalized tables
+* [X] Write the DML in a file named `rcttc-data.sql` to populate the database tables (#.# hours)
+  * [X] Write insert-from-select statements to move the data from the denormalized table to the normalized tables
 
 **Make sure that my GitHub repo is updated!**
 
@@ -67,9 +68,9 @@ _These steps can be done in class on Friday or over the weekend_
 
 _These steps will be completed over the weekend_
 
-* [ ] Write the DML to make the necessary data updates (as outlined below) (#.# hours)
+* [X] Write the DML to make the necessary data updates (as outlined below) (#.# hours)
 
-* [ ] Write the required queries (as outlined below) in a file named `rcttc-queries.sql` (#.# hours)
+* [X] Write the required queries (as outlined below) in a file named `rcttc-queries.sql` (#.# hours)
 
 **Make frequent commits to my GitHub repo!**
 
