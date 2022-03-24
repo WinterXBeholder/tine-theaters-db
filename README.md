@@ -59,8 +59,8 @@ _These steps can be done in class on Friday or over the weekend_
   * [X] Import the csv file using Workbench _or_
   * [X] Run the provided SQL script
 
-* [ ] Write the DML in a file named `rcttc-data.sql` to populate the database tables (#.# hours)
-  * [ ] Write insert-from-select statements to move the data from the denormalized table to the normalized tables
+* [X] Write the DML in a file named `rcttc-data.sql` to populate the database tables (#.# hours)
+  * [X] Write insert-from-select statements to move the data from the denormalized table to the normalized tables
 
 **Make sure that my GitHub repo is updated!**
 
@@ -68,9 +68,9 @@ _These steps can be done in class on Friday or over the weekend_
 
 _These steps will be completed over the weekend_
 
-* [ ] Write the DML to make the necessary data updates (as outlined below) (#.# hours)
+* [X] Write the DML to make the necessary data updates (as outlined below) (#.# hours)
 
-* [ ] Write the required queries (as outlined below) in a file named `rcttc-queries.sql` (#.# hours)
+* [X] Write the required queries (as outlined below) in a file named `rcttc-queries.sql` (#.# hours)
 
 **Make frequent commits to my GitHub repo!**
 
